@@ -6,7 +6,6 @@
 <article class="markdown-body entry-content container-lg">
 <h2>Описание данных</h2>
 <div class="paragraph"><strong>Данные для первой части</strong></div>
-<div class="paragraph">Файл <code class="code-inline code-inline_theme_light">/datasets/hypothesis.csv</code>. <a href="https://code.s3.yandex.net/datasets/hypothesis.csv" target="_blank" rel="noopener">Скачать датасет</a></div>
 <ul>
 <li><code class="code-inline code-inline_theme_light">Hypothesis</code> &mdash; краткое описание гипотезы;</li>
 <li><code class="code-inline code-inline_theme_light">Reach</code> &mdash; охват пользователей по 10-балльной шкале;</li>
@@ -15,7 +14,6 @@
 <li><code class="code-inline code-inline_theme_light">Efforts</code> &mdash; затраты ресурсов на проверку гипотезы по 10-балльной шкале. Чем больше значение <code class="code-inline code-inline_theme_light">Efforts</code>, тем дороже проверка гипотезы.</li>
 </ul>
 <div class="paragraph"><strong>Данные для второй части</strong></div>
-<div class="paragraph">Файл <code class="code-inline code-inline_theme_light">/datasets/orders.csv</code>. <a href="https://code.s3.yandex.net/datasets/orders.csv" target="_blank" rel="noopener">Скачать датасет</a></div>
 <ul>
 <li><code class="code-inline code-inline_theme_light">transactionId</code> &mdash; идентификатор заказа;</li>
 <li><code class="code-inline code-inline_theme_light">visitorId</code> &mdash; идентификатор пользователя, совершившего заказ;</li>
@@ -23,7 +21,6 @@
 <li><code class="code-inline code-inline_theme_light">revenue</code> &mdash; выручка заказа;</li>
 <li><code class="code-inline code-inline_theme_light">group</code> &mdash; группа A/B-теста, в которую попал заказ.</li>
 </ul>
-<div class="paragraph">Файл <code class="code-inline code-inline_theme_light">/datasets/visitors.csv</code>. <a href="https://code.s3.yandex.net/datasets/visitors.csv" target="_blank" rel="noopener">Скачать датасет</a></div>
 <ul>
 <li><code class="code-inline code-inline_theme_light">date</code> &mdash; дата;</li>
 <li><code class="code-inline code-inline_theme_light">group</code> &mdash; группа A/B-теста;</li>
