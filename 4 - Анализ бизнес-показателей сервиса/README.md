@@ -21,7 +21,6 @@
 <li>какие факторы мешают привлечению клиентов.</li>
 </ul>
 <h2>Описание данных</h2>
-<div class="paragraph">В вашем распоряжении три датасета. Файл <code class="code-inline code-inline_theme_light">visits_info_short.csv</code> хранит лог сервера с информацией о посещениях сайта, <code class="code-inline code-inline_theme_light">orders_info_short.csv</code>&nbsp;&mdash; информацию о заказах, а <code class="code-inline code-inline_theme_light">costs_info_short.csv</code>&nbsp;&mdash; информацию о расходах на рекламу.</div>
 <div class="paragraph">Структура <code class="code-inline code-inline_theme_light">visits_info_short.csv</code>:</div>
 <ul>
 <li><code class="code-inline code-inline_theme_light">User Id</code> &mdash; уникальный идентификатор пользователя,</li>
