@@ -11,7 +11,6 @@
 <div class="paragraph">В наборе данных попадается аббревиатура <em>ESRB (Entertainment Software Rating Board)</em> &mdash; это ассоциация, определяющая возрастной рейтинг компьютерных игр. <em>ESRB</em> оценивает игровой контент и присваивает ему подходящую возрастную категорию, например, &laquo;Для взрослых&raquo;, &laquo;Для детей младшего возраста&raquo; или &laquo;Для подростков&raquo;.</div>
 <h3>Инструкция по выполнению проекта</h3>
 <div class="paragraph"><strong>Шаг 1. Откройте файл с данными и изучите общую информацию</strong></div>
-<div class="paragraph">Путь к файлу: <em>/datasets/games.csv</em>. <a href="https://code.s3.yandex.net/datasets/games.csv">Скачать датасет</a></div>
 <div class="paragraph"><strong>Шаг 2. Подготовьте данные</strong></div>
 <ul>
 <li>Замените названия столбцов (приведите к нижнему регистру);</li>
