@@ -1,11 +1,9 @@
-# Pet-project-1 - Real estate market analysis \ Анализ рынка недвижимости 
-
 <table style="height: 215px; width: 670px;">
 <tbody>
 <tr>
 <td style="width: 37.6719px;">N</td>
-<td style="width: 177.328px;">Название проекта</td>
-<td style="width: 433px;">Основные этапы</td>
+<td style="width: 177.328px;"><strong>Название проекта</strong></td>
+<td style="width: 433px;"><strong>Основные этапы</strong></td>
 </tr>
 <tr>
 <td style="width: 37.6719px;">1</td>
@@ -38,4 +36,4 @@
 <td style="width: 433px;">Обзор данных, Предобработка данных, Исследовательский анализ данных, Анализ A/A/B-теста, построение и анализ воронки продаж</td>
 </tr>
 </tbody>
-</table> 
+</table>
